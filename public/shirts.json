@@ -1,0 +1,124 @@
+{
+  "tshirts":[
+    {
+      "id": 1,
+      "name": "Classic White Tee",
+      "description": "A simple and comfortable white T-shirt.",
+      "price": 19.99,
+      "imageUrl": "https://i.shgcdn.com/3fb47771-a0dd-4777-871b-fa7eb16f3a12/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+      "category": "Graphic"
+    },
+    {
+      "id": 2,
+      "name": "Graphic Print Tee",
+      "description": "A trendy T-shirt with a unique graphic print.",
+      "price": 24.99,
+      "imageUrl": "https://images.herzindagi.info/image/2022/Jul/how-to-style-your-graphic-t-shirt.jpg",
+      "category": "Graphic"
+    },
+    {
+      "id": 3,
+      "name": "Striped Cotton Tee",
+      "description": "A stylish T-shirt with striped patterns.",
+      "price": 29.99,
+      "imageUrl": "https://6c819239693cc4960b69-cc9b957bf963b53239339d3141093094.lmsin.net/1000011111189-Blue-Blue-1000011111189_01-1200.jpg",
+      "category": "Casual"
+    },
+    {
+      "id": 4,
+      "name": "Vintage Logo Tee",
+      "description": "A vintage-inspired T-shirt with a logo print.",
+      "price": 22.99,
+      "imageUrl": "https://cdn.pomelofashion.com/img/p/2/2/1/8/5/8/221858.jpg",
+      "category": "Graphic"
+    },
+    {
+      "id": 5,
+      "name": "Sporty Performance Tee",
+      "description": "A moisture-wicking T-shirt for active wear.",
+      "price": 34.99,
+      "imageUrl": "https://img0.junaroad.com/uiproducts/19454552/zoom_0-1677758646.jpg",
+      "category": "Sport"
+    },
+    {
+      "id": 6,
+      "name": "Denim Pocket Tee",
+      "description": "A casual T-shirt with a denim pocket accent.",
+      "price": 26.99,
+      "imageUrl": "https://img0.junaroad.com/uiproducts/18389629/zoom_0-1653983351.jpg",
+      "category": "Casual"
+    },
+    {
+      "id": 7,
+      "name": "Funky Tie-Dye Tee",
+      "description": "A vibrant tie-dye T-shirt for a bold look.",
+      "price": 31.99,
+      "imageUrl": "https://images.bestsellerclothing.in/data/only/28-feb-2023/119178601_g0.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto",
+      "category": "Graphic"
+    },
+    {
+      "id": 8,
+      "name": "Pocket Square Tee",
+      "description": "A T-shirt with a stylish pocket square detail.",
+      "price": 27.99,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/1/RR/KJ/UE/102058255/shimak-casual-shirts-printed-full-sleeve.jpeg",
+      "category": "Casual"
+    },
+    {
+      "id": 9,
+      "name": "Camo Print Tee",
+      "description": "A camouflage-patterned T-shirt for a rugged look.",
+      "price": 32.99,
+      "imageUrl": "https://images.stylishop.com/cdn-cgi/image/width=412,quality=100/media/catalog/product/7004523216/images/7004523216_1.jpg",
+      "category": "Graphic"
+    },
+    {
+      "id": 10,
+      "name": "V-Neck Essentials Tee",
+      "description": "A classic V-neck T-shirt for everyday wear.",
+      "price": 21.99,
+      "imageUrl": "https://images.bestsellerclothing.in/data/JJ/june-24-2021/255563203_g1.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto",
+      "category": "Basic"
+    },
+    {
+      "id": 11,
+      "name": "Retro Striped Polo",
+      "description": "A retro-inspired striped polo shirt.",
+      "price": 39.99,
+      "imageUrl": "https://img3.junaroad.com/uiproducts/20245644/std_300_4-1693302590.jpg",
+      "category": "Casual"
+    },
+    {
+      "id": 12,
+      "name": "Floral Print Tee",
+      "description": "A T-shirt with a stylish floral print.",
+      "price": 28.99,
+      "imageUrl": "https://m.media-amazon.com/images/I/71EypeVeZyL._AC_SX569_.jpg",
+      "category": "Graphic"
+    },
+    {
+      "id": 13,
+      "name": "Long Sleeve Comfort Tee",
+      "description": "A long-sleeved T-shirt for cooler days.",
+      "price": 36.99,
+      "imageUrl": "https://www.shutterstock.com/image-photo/man-wearing-black-tshirt-near-600nw-2293530155.jpg",
+      "category": "Basic"
+    },
+    {
+      "id": 14,
+      "name": "Retro Baseball Tee",
+      "description": "A vintage-style baseball T-shirt.",
+      "price": 33.99,
+      "imageUrl": "https://img0.junaroad.com/uiproducts/19454505/zoom_1-1677758647.jpg",
+      "category": "Sport"
+    },
+    {
+      "id": 15,
+      "name": "Crisp Linen Blend Tee",
+      "description": "A T-shirt made from a comfortable linen blend.",
+      "price": 29.99,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0162/2116/files/Casual_Street_Style_For_Men_6.jpg?v=1491243869",
+      "category": "Casual"
+    }
+  ]
+ }
